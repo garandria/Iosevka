@@ -57,3 +57,8 @@ params/private-parameters.toml
 
 # Ignore tmp directory
 tmp
+
+# Emacs
+*~
+\#*\#
+.\#*
